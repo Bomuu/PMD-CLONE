@@ -1,12 +1,12 @@
 {
-"name": "Stark 👾",
+"name": "Stark",
 "version": "2.1.2",
-"description": "Stark 👾 has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
+"description": "Stark has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
 "main": "start.js",
 "scripts": {
-"start": "pm2 start start.js --deep-monitoring --attach --name Stark 👾",
-"stop": "pm2 stop Stark 👾",
-"restart": "pm2 restart Stark 👾"
+"start": "pm2 start start.js --deep-monitoring --attach --name Stark",
+"stop": "pm2 stop Stark",
+"restart": "pm2 restart Stark"
 },
 "dependencies": {
 "@whiskeysockets/baileys": "git+https://github.com/PMD-API-UPDATE/Baileys-6.6.0.git",
